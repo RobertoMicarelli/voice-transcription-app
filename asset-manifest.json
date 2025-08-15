@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/voice-transcription-app/static/css/main.6a5e6a43.css",
+    "main.js": "/voice-transcription-app/static/js/main.548f87a6.js",
+    "static/js/453.7c017bc3.chunk.js": "/voice-transcription-app/static/js/453.7c017bc3.chunk.js",
+    "index.html": "/voice-transcription-app/index.html",
+    "main.6a5e6a43.css.map": "/voice-transcription-app/static/css/main.6a5e6a43.css.map",
+    "main.548f87a6.js.map": "/voice-transcription-app/static/js/main.548f87a6.js.map",
+    "453.7c017bc3.chunk.js.map": "/voice-transcription-app/static/js/453.7c017bc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a5e6a43.css",
+    "static/js/main.548f87a6.js"
+  ]
+}
